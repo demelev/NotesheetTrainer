@@ -1,0 +1,9 @@
+[package]
+name = "NotesheetTrainer"
+version = "0.1.0"
+authors = ["Emeliov Dmitri <demelev1990@gmail.com>"]
+
+[dependencies]
+
+[dependencies.glfw]
+git = "https://github.com/bjz/glfw-rs.git"
